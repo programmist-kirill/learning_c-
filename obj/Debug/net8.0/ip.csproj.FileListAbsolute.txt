@@ -1,0 +1,14 @@
+/home/kirill/Документы/ip/bin/Debug/net8.0/ip
+/home/kirill/Документы/ip/bin/Debug/net8.0/ip.deps.json
+/home/kirill/Документы/ip/bin/Debug/net8.0/ip.runtimeconfig.json
+/home/kirill/Документы/ip/bin/Debug/net8.0/ip.dll
+/home/kirill/Документы/ip/bin/Debug/net8.0/ip.pdb
+/home/kirill/Документы/ip/obj/Debug/net8.0/ip.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Документы/ip/obj/Debug/net8.0/ip.AssemblyInfoInputs.cache
+/home/kirill/Документы/ip/obj/Debug/net8.0/ip.AssemblyInfo.cs
+/home/kirill/Документы/ip/obj/Debug/net8.0/ip.csproj.CoreCompileInputs.cache
+/home/kirill/Документы/ip/obj/Debug/net8.0/ip.dll
+/home/kirill/Документы/ip/obj/Debug/net8.0/refint/ip.dll
+/home/kirill/Документы/ip/obj/Debug/net8.0/ip.pdb
+/home/kirill/Документы/ip/obj/Debug/net8.0/ip.genruntimeconfig.cache
+/home/kirill/Документы/ip/obj/Debug/net8.0/ref/ip.dll

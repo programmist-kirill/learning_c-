@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hz/9Izd57IZBXTOToC9Slhr+bx2MLuzuiUC/IEqe6Pwx5sDHM5CqNFxAYYPcAgwR5x2+k/rZlvaaZO6RUsMo/w==",
+  "success": true,
+  "projectFilePath": "/home/kirill/Документы/ip/ip.csproj",
+  "expectedPackageFiles": [
+    "/home/kirill/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
